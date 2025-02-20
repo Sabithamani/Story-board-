@@ -1,2 +1,2 @@
 # Story-board-
-Created a story for gamified education 
+Created a story for gamified education.Nowadays students are not interested to study but only looking for mobile to play games.In this games we implement a education through it.So all take this to play and get rewards and unlock to next level while they finish their levels...
